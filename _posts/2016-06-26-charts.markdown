@@ -1,11 +1,10 @@
 ---
 layout:     post
-title:      "iOS Charts"
+title:      "Charts"
 date:       2016-06-24 12:00:00
 author:     "summerxx"
 header-img: "img/post-bg-miui6.jpg"
 tags:
-    - Swift
     - Charts
 ---
 
@@ -272,3 +271,5 @@ optional public func chartTranslated(chartView: Charts.ChartViewBase, dX: CGFloa
 <div align=center>
 ![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f9656jhucpj307607674r.jpg)
 </div>
+
+
