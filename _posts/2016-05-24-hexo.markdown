@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Hexo+github pages"
+title:      "Hexo + GitHub 建设网站详细教程"
 date:       2016-05-24 12:00:00
 author:     "summerxx"
 header-img: "img/post-bg-alitrip.jpg"
 tags:
-    - Charts
+    - Hexo
 ---
 
 这个完整版是作者的博客站 http://litten.github.io
@@ -86,17 +86,20 @@ https://hexo.io/zh-cn/docs/
 细节补充---------------------
 
 1. yilia主题头像无法显示的问题, 首先设置主题目录的URL(使用微博图床就可以生成一个图片你的url)
+
 2. 修改主题文件下 layout/_partial/left-col.ejs的第6行和第8行为：
-
-    <img src="<%=theme.avatar%>" class="js-avatar show">
-    <img src="<%=theme.avatar%>" class="js-avatar show" style="width: 100%;height: 100%;opacity: 1;">
-
+```html
+<img src="<%=theme.avatar%>" class="js-avatar show">
+<img src="<%=theme.avatar%>" class="js-avatar show" style="width: 100%;height: 100%;opacity: 1;">
+```
 3. 小房子点击不好用等等修改可以看这篇
-解决办法: http://xingbofeng.com/2016/09/05/hexo+github搭建个人博客/
+  解决办法: http://xingbofeng.com/2016/09/05/hexo+github搭建个人博客
+
 4. 写文章发布
-https://hexo.io/zh-cn/docs/commands.html#new
+  https://hexo.io/zh-cn/docs/commands.html#new
+
 5. 显示点击阅读更多 more
-在需要的位置
+  在需要的位置
 
     // 写上这句
     <!-- more -->
@@ -108,13 +111,6 @@ https://hexo.io/zh-cn/docs/commands.html#new
 文 / 夏天然后
 End
 
-<div align=center>
-微信公众号 得到最快最新的推送
-</div>
-
-<div align=center>
-![](http://ww1.sinaimg.cn/large/0060lm7Tgw1f9656jhucpj307607674r.jpg)
-</div>
 
 
 
