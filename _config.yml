@@ -1,6 +1,6 @@
 # Site settings
-title: Sumx Blog
-SEOTitle: 夏天的博客 | Sumx Blog
+title: Summerxx Blog
+SEOTitle: Sumx的博客 | Sumx Blog
 header-img: img/home-bg.jpg
 email: summerxx27@163.com
 description: "这里是 @Sumx 夏天的个人博客，与你一起发现更大的世界。"
@@ -79,7 +79,7 @@ ga_domain: bytedance.pub
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-summerx-h.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -106,31 +106,32 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "onevcat",
+        href: "https://onevcat.com"
     },{
-        title: "Sherry Wu",
-        href: "https://xuechundesign.github.io"
+        title: "sunnyxx",
+        href: "http://blog.sunnyxx.com"
     },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
+        title: "ibireme",
+        href: "http://blog.ibireme.com"
     },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
+        title: "bang's Blog",
+        href: "http://blog.cnbang.net"
     },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "戴ming的博客",
+        href: "https://ming1016.github.io/"
     }
+#    },{
+#        title: "JiyinYiyong",
+#        href: "http://tiye.me/"
+#    },{
+#        title: "David's Game",
+#        href: "https://www.ruoyaowu.com/"
+#    },{
+#        title: "DHong Say",
+#        href: "http://dhong.co"
+#    },{
+#        title: "尹峰以为",
+#        href: "http://ingf.github.io/"
+#    }
 ]
