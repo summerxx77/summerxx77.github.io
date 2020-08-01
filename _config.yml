@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     夏天是个大人了
-zhihu_username:     麦兜儿
+weibo_username:     Zjwang01
+zhihu_username:     summerxxpro
 github_username:    summerxx27
 #twitter_username:   summerxx
 #facebook_username:  huxpro
@@ -85,7 +85,7 @@ sidebar-avatar: /img/avatar-summerx-h.jpeg      # use absolute URL, seeing it's 
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 0              # A tag will be featured if the size of it is more than this condition value
 
 
 
