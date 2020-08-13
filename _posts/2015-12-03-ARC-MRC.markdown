@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "文件支持ARC,MRC互转"
+date:       2015-12-03 21:50:00
+author:     "summerxx"
+header-img: "img/post-bg-os-metro.jpg"
+tags:
+    - ARC
+	- MRC
+---
+
+1.在targets->build phases中修改compiler Flags属性，添加：-fobjc-arc 相反
+
+2.在targets->build phases中修改compiler Flags属性，添加：-fno-objc-arc ARC工程支持MRC
