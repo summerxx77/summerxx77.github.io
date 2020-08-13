@@ -6,7 +6,6 @@ author:     "summerxx"
 header-img: "img/post-bg-miui6.jpg"
 tags:
     - CocoaPods
-    - Pod管理
 ---
 
 前言 : 这篇文章将从以下几个方面去解析下Pods 这是一个技术分享的文字整理
