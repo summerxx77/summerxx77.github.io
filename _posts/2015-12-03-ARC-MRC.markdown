@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "文件支持ARC,MRC互转"
+title:      "文件支持ARC MRC互转"
 date:       2015-12-03 21:50:00
 author:     "summerxx"
 header-img: "img/post-bg-os-metro.jpg"
